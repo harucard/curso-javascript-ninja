@@ -11,4 +11,5 @@ Faça um pull request, também com a branch `challenge-31`, mas no repositório
 do curso, para colar o link do pull request do seu repo.
 */
 
-console.log('Link do pull request do seu projeto');
+console.log('https://github.com/harucard/MyCar/pull/new/challenge-31');
+console.log('Acabei esquecendo de criar a branch e as alteraçoes foram salvas na master.Criei a branch depois porque foi pedido ')
